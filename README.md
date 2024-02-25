@@ -1,2 +1,2 @@
 # asterisk-docker
-Docker multi-stage build of Asterisk PBX on Rocky Linux
+Docker Multi-stage Build of Asterisk PBX based on Rocky Linux

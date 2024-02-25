@@ -1,0 +1,4 @@
+services:
+  asterisk:
+    build: .
+    image: thisiskarimi/asterisk-rocky:20-6.9-3
